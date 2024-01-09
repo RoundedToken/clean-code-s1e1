@@ -138,11 +138,11 @@ button{
   display: none;
 }
 
-.tasks-list__item.editMode .task_editable {
+.tasks-list__item.edit-mode .task_editable {
   display: inline-block;
   width: 224px;
 }
 
-.tasks-list__item.editMode .task_not-editable {
+.tasks-list__item.edit-mode .task_not-editable {
   display: none;
 }
